@@ -34,9 +34,6 @@ type User = {
 type Admin = User & { role: string };
 ```
 
-|     |
-| --- |
-
 ---
 
 ## 2. Use of `keyof` in TypeScript
